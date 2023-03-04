@@ -1,0 +1,75 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31823.3",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/plan.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "7471f2d5e527acead080a96cfe9228c7f847668f33043dd3a139a6f1c5ad7478"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/plan.h"
+          },
+          "hashes": {
+            "sha-256": "7b0dc2416d53c4770ca722ddab7c92490b3a88505f9edf9e41b4c084992bf168"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/meal.h"
+          },
+          "hashes": {
+            "sha-256": "24bbc556ee0ec10384e25836ada07dbe6c8eadf947f5a0b07c262f9ee78d0e66"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/recipe.h"
+          },
+          "hashes": {
+            "sha-256": "8fcd8a2d4a544dcf308619a7d5ba7cccf926208a9a4b15ee6e1059207384dabb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/date.h"
+          },
+          "hashes": {
+            "sha-256": "9991a914158e3b70b0ecdcc06e4e34a41c20e922be225ac518fa9d85d7c5d63c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/serializer.h"
+          },
+          "hashes": {
+            "sha-256": "eddde03931b17a61d767c9878933ddce9e29efa0f9ac70bf20332b93bcd6107f"
+          }
+        }
+      ]
+    }
+  ]
+}

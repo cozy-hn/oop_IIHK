@@ -1,0 +1,265 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "산술 오버플로: 4 바이트 값의 '-' 연산자를 사용한 다음 결과를 8 바이트 값에 캐스트합니다. 오버플로를 방지하려면 '-' 연산자를 호출하기 전에 더 광범위한 형식에 값을 캐스트합니다(io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/hojooneum/Documents/OOP_team1/OOP-proj1/IIKH_src/RecipeDatabase.cpp"
+                },
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 17,
+                  "endLine": 50,
+                  "endColumn": 21
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "RecipeDatabase::showRecipe",
+                  "decoratedName": "?showRecipe@RecipeDatabase@@SAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "산술 오버플로: 4 바이트 값의 '-' 연산자를 사용한 다음 결과를 8 바이트 값에 캐스트합니다. 오버플로를 방지하려면 '-' 연산자를 호출하기 전에 더 광범위한 형식에 값을 캐스트합니다(io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/hojooneum/Documents/OOP_team1/OOP-proj1/IIKH_src/RecipeDatabase.cpp"
+                },
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 46,
+                  "endLine": 72,
+                  "endColumn": 50
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "RecipeDatabase::deleteRecipe",
+                  "decoratedName": "?deleteRecipe@RecipeDatabase@@SAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "산술 오버플로: 4 바이트 값의 '-' 연산자를 사용한 다음 결과를 8 바이트 값에 캐스트합니다. 오버플로를 방지하려면 '-' 연산자를 호출하기 전에 더 광범위한 형식에 값을 캐스트합니다(io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/hojooneum/Documents/OOP_team1/OOP-proj1/IIKH_src/RecipeDatabase.cpp"
+                },
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 27,
+                  "endLine": 86,
+                  "endColumn": 31
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "RecipeDatabase::updateRecipe",
+                  "decoratedName": "?updateRecipe@RecipeDatabase@@SAXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "산술 오버플로: 4 바이트 값의 '-' 연산자를 사용한 다음 결과를 8 바이트 값에 캐스트합니다. 오버플로를 방지하려면 '-' 연산자를 호출하기 전에 더 광범위한 형식에 값을 캐스트합니다(io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/hojooneum/Documents/OOP_team1/OOP-proj1/IIKH_src/RecipeDatabase.cpp"
+                },
+                "region": {
+                  "startLine": 282,
+                  "startColumn": 12,
+                  "endLine": 282,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "RecipeDatabase::recipeInputUI",
+                  "decoratedName": "?recipeInputUI@RecipeDatabase@@SA?AVRecipe@@V2@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "산술 오버플로: 4 바이트 값의 '-' 연산자를 사용한 다음 결과를 8 바이트 값에 캐스트합니다. 오버플로를 방지하려면 '-' 연산자를 호출하기 전에 더 광범위한 형식에 값을 캐스트합니다(io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/hojooneum/Documents/OOP_team1/OOP-proj1/IIKH_src/RecipeDatabase.cpp"
+                },
+                "region": {
+                  "startLine": 314,
+                  "startColumn": 12,
+                  "endLine": 314,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "RecipeDatabase::recipeInputUI",
+                  "decoratedName": "?recipeInputUI@RecipeDatabase@@SA?AVRecipe@@V2@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "산술 오버플로: 4 바이트 값의 '-' 연산자를 사용한 다음 결과를 8 바이트 값에 캐스트합니다. 오버플로를 방지하려면 '-' 연산자를 호출하기 전에 더 광범위한 형식에 값을 캐스트합니다(io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/hojooneum/Documents/OOP_team1/OOP-proj1/IIKH_src/RecipeDatabase.cpp"
+                },
+                "region": {
+                  "startLine": 315,
+                  "startColumn": 84,
+                  "endLine": 315,
+                  "endColumn": 86
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "RecipeDatabase::recipeInputUI",
+                  "decoratedName": "?recipeInputUI@RecipeDatabase@@SA?AVRecipe@@V2@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "산술 오버플로: 4 바이트 값의 '-' 연산자를 사용한 다음 결과를 8 바이트 값에 캐스트합니다. 오버플로를 방지하려면 '-' 연산자를 호출하기 전에 더 광범위한 형식에 값을 캐스트합니다(io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/hojooneum/Documents/OOP_team1/OOP-proj1/IIKH_src/RecipeDatabase.cpp"
+                },
+                "region": {
+                  "startLine": 318,
+                  "startColumn": 50,
+                  "endLine": 318,
+                  "endColumn": 52
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "RecipeDatabase::recipeInputUI",
+                  "decoratedName": "?recipeInputUI@RecipeDatabase@@SA?AVRecipe@@V2@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31823.3",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/hojooneum/Documents/OOP_team1/OOP-proj1/IIKH_src/RecipeDatabase.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "ca99e037ab5db9f1d6d8b2661abfdd9ecb47a97956f349e3f933c6fef50e2a1d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/recipedatabase.h"
+          },
+          "hashes": {
+            "sha-256": "c3105e64a775d1f7c57724d3c1a16556ea96961982a3991d087b1e776fc75b74"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/filemanager.h"
+          },
+          "hashes": {
+            "sha-256": "0daddcb0cff11d3ae312956fdf230e2742b6071c509104d9d0fd59fd4d1463be"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/recipe.h"
+          },
+          "hashes": {
+            "sha-256": "8fcd8a2d4a544dcf308619a7d5ba7cccf926208a9a4b15ee6e1059207384dabb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/parser.h"
+          },
+          "hashes": {
+            "sha-256": "c497b44255f85b26b7cff3a6907afa801d1783e50c75eaae044b803532310a25"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-DB_Recipe",
+      "appliesTo": "DB_Recipe.txt",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-IIKH",
+      "appliesTo": "IIKH.vcxproj",
+      "type": "msbuild"
+    },
+    {
+      "taskLabel": "task-DB_Recipe",
+      "appliesTo": "DB_Recipe.txt",
+      "type": "launch"
+    }
+  ]
+}

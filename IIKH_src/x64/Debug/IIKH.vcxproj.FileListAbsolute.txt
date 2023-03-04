@@ -1,0 +1,16 @@
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\IIKH.vcxproj.CopyComplete
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\IIKH.exe
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\concrt140d.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\msvcp140d.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\msvcp140d_atomic_wait.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\msvcp140d_codecvt_ids.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\msvcp140_1d.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\msvcp140_2d.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\vccorlib140d.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\vcruntime140d.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\vcruntime140_1d.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\vcamp140d.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\vcomp140d.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\libomp140.x86_64.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\libomp140d.x86_64.dll
+C:\Users\hojooneum\Documents\OOP_team1\OOP-proj1\IIKH_src\x64\Debug\ucrtbased.dll

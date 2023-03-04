@@ -1,0 +1,123 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31823.3",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/greeter.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "00ff11515a242284842885d09e4279f7dfb7cdac8de9511805d96d8b9a15efd2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/greeter.h"
+          },
+          "hashes": {
+            "sha-256": "89a3b36cf63235020b9d4feba76cc40381b419ff41937950fe4841f3e7101670"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/recipedatabase.h"
+          },
+          "hashes": {
+            "sha-256": "c3105e64a775d1f7c57724d3c1a16556ea96961982a3991d087b1e776fc75b74"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/filemanager.h"
+          },
+          "hashes": {
+            "sha-256": "0daddcb0cff11d3ae312956fdf230e2742b6071c509104d9d0fd59fd4d1463be"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/recipe.h"
+          },
+          "hashes": {
+            "sha-256": "8fcd8a2d4a544dcf308619a7d5ba7cccf926208a9a4b15ee6e1059207384dabb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/parser.h"
+          },
+          "hashes": {
+            "sha-256": "c497b44255f85b26b7cff3a6907afa801d1783e50c75eaae044b803532310a25"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/planmanager.h"
+          },
+          "hashes": {
+            "sha-256": "e5c66c379876e62d5103d59dda19036835d8cd8a7edb55331a07aa6324fbaa27"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/plan.h"
+          },
+          "hashes": {
+            "sha-256": "7b0dc2416d53c4770ca722ddab7c92490b3a88505f9edf9e41b4c084992bf168"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/meal.h"
+          },
+          "hashes": {
+            "sha-256": "24bbc556ee0ec10384e25836ada07dbe6c8eadf947f5a0b07c262f9ee78d0e66"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/date.h"
+          },
+          "hashes": {
+            "sha-256": "9991a914158e3b70b0ecdcc06e4e34a41c20e922be225ac518fa9d85d7c5d63c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/serializer.h"
+          },
+          "hashes": {
+            "sha-256": "eddde03931b17a61d767c9878933ddce9e29efa0f9ac70bf20332b93bcd6107f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/hojooneum/documents/oop_team1/oop-proj1/iikh_src/inputmanager.h"
+          },
+          "hashes": {
+            "sha-256": "9bb5020695745725ae4f8522f5e3ff537245158c8d5dad18165befe721b82d99"
+          }
+        }
+      ]
+    }
+  ]
+}
